@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Helvetica";
+    src: url("../font/Helvetica\ Neue\ LT\ W01\ 55\ Roman.woff"); 
+    src: url("../font/Helvetica\ Neue\ LT\ W01\ 55\ Roman.woff2"),
+    url("../font/Helvetica\ Neue\ LT\ W01\ 55\ Roman.woff2") format("woff2"), 
+    url("../font/Helvetica\ Neue\ LT\ W01\ 55\ Roman.woff") format("woff"), 
+    url("../font/Helvetica\ Neue\ LT\ W01\ 55\ Roman.ttf Neue\ LT\ W01\ 55\ Roman.woff")
+  }
